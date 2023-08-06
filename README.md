@@ -23,17 +23,17 @@ COLT is a 4-week test project organized by Cherry IT. During the project, I gain
 
 📌 List of steps needed to run collection and tests
 
-1️⃣ Postman installation
+☑️ Postman installation
 
-2️⃣ Creating a Trello account
+☑️ Creating a Trello account
 
-3️⃣ Trello authentication
+☑️ Trello authentication
 
-4️⃣ Importing a file into Postman
+☑️ Importing a file into Postman
 
-5️⃣ Creating environment variables in Postman
+☑️ Creating environment variables in Postman
 
-6️⃣ Run collection and testing
+☑️ Run collection and testing
 
 
 <a href="https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions">Trello API documentation</a>
