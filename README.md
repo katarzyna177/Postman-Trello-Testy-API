@@ -6,6 +6,7 @@ led by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
 ### Trello REST API testing with Postman
 
 💁 About project
+
 COLT is a 4-week test project organized by Cherry IT. During the project, I gained knowledge about the REST API and got to know the Postman tool. I created my own collections based on Trello technical documentation. I practiced GIT and Github.
 
 ☑️ getting to know the basic knowledge of REST API 
